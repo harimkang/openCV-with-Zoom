@@ -2,6 +2,12 @@
 
 Writer: Harim Kang
 
+## Blog for Korean
+
+The READ ME contents in Korean can be found at the address below.
+
+<https://davinci-ai.tistory.com/8>
+
 # Adding zoom to opencv streaming screen
 
 ## Goal
