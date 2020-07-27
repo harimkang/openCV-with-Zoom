@@ -1,4 +1,6 @@
 # opencv-with-zoom
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharimkang/openCV-with-Zoom) ![License](https://img.shields.io/github/license/harimkang/opencv-with-zoom?style=plastic) ![Stars](https://img.shields.io/github/stars/harimkang/opencv-with-zoom?style=social)
+
 
 ![love and jo](https://user-images.githubusercontent.com/38045080/88261899-1d189380-cd02-11ea-9058-740b2f6a48b4.png)
 
